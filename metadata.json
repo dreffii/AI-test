@@ -1,0 +1,5 @@
+{
+  "name": "AI Architectural Rendering",
+  "description": "An AI-powered prompt generation tool for architectural and interior rendering from images and text descriptions, utilizing Gemini for image generation.",
+  "requestFramePermissions": []
+}
